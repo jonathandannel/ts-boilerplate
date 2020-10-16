@@ -6,11 +6,11 @@ export const headerStyles = makeStyles(() => ({
     display: 'flex',
     justifyContent: 'space-between',
   },
-  logo: { padding: '0.5em' },
+  logo: { padding: '0.5em 0.5em 0.5em 1em' },
   user: {
     display: 'flex',
     justifyContent: 'space-evenly',
-    paddingRight: '0.5em',
+    paddingRight: '1.5em',
   },
   centerVert: {
     display: 'flex',

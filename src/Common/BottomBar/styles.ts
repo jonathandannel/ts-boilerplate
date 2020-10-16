@@ -5,7 +5,7 @@ export const bottomBarStyles = makeStyles(() => ({
     width: '100%',
     height: '5em',
     background: 'white',
-    top: 'auto',
+    position: 'absolute',
     bottom: 0,
   },
 }));

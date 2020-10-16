@@ -6,5 +6,6 @@ export const appRootStyles = makeStyles(() => ({
     height: '100%',
     display: 'flex',
     flexDirection: 'column',
+    position: 'relative',
   },
 }));
